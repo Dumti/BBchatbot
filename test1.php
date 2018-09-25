@@ -6,7 +6,11 @@
     <h1>Test1</h1>
     
     <?php
-    echo "Hello World!";
+    echo '
+    {
+    "type": "buttons",
+    "buttons": ["메뉴1", "메뉴2", "메뉴3"}
+    }
     ?>
     
   </body>
